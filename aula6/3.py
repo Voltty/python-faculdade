@@ -17,4 +17,3 @@ elif IMC >= 40:
     print("Obesidade Grau 3")
 else:
     print("error")
- 
